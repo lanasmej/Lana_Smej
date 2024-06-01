@@ -1,0 +1,31 @@
+body {
+  background-color: #8F9779;
+  margin:50px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: montserrat;
+  font-size: 50px;
+}
+
+h2 {
+  color: white;
+  font-family: merriweather;
+  font-size: 30px;
+}
+
+h3  {
+	font-family: merriweather;
+	font-size: 18px;
+}
+
+p1 {
+	font-family: montserrat;
+	font-size: 14px;
+}
+
+a:hover {
+  background-color: #ACE1AF;
+}
